@@ -13,3 +13,7 @@ sklearn
 cmath
 
 scipy
+
+## running code
+
+python model.py
